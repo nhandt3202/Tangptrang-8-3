@@ -1,7 +1,7 @@
 
 
-var gift_url = 'https://www.facebook.com/profile.php?id=100035363295442&mibextid=ZbWKwL';
-var gift_image_url = 'kimnhan.jpg';
+var gift_url = 'https://www.facebook.com/profile.php?id=100025613526336&mibextid=ZbWKwL';
+var gift_image_url = 'ptrang.jpg';
 
 
 var nametag = document.getElementById("nametag");
